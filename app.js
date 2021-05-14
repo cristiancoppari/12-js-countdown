@@ -31,7 +31,6 @@ const deadline = document.querySelector(".deadline");
 const items = document.querySelectorAll(".deadline-format h4");
 
 let futureDate = new Date(2021, 4, 24, 11, 30, 0);
-
 // console.log(futureDate);
 
 const year = futureDate.getFullYear();
