@@ -1,4 +1,4 @@
-// data
+// months
 const months = [
   "January",
   "February",
@@ -13,6 +13,7 @@ const months = [
   "November",
   "December",
 ];
+// week days
 const weekdays = [
   "Sunday",
   "Monday",
