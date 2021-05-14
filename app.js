@@ -1,3 +1,4 @@
+// data
 const months = [
   "January",
   "February",
